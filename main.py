@@ -1,7 +1,7 @@
 import random
 
 
-a = ["doggy", "mouse", "cat"]
+a = ["dog", "mouse", "cat"]
 word = random.choice(a)
 print(len(word))
 count = 0
